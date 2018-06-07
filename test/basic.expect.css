@@ -1,0 +1,8 @@
+test {
+	grid-gap: 42px 1vmin;
+	gap: 42px 1vmin;
+	grid-row-gap: 42px;
+	row-gap: 42px;
+	grid-column-gap: 1vmin;
+	column-gap: 1vmin;
+}
