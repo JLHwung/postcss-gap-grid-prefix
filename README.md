@@ -122,8 +122,8 @@ grunt.initConfig({
 [css-img]: Todo
 [npm-url]: https://www.npmjs.com/package/postcss-gap-grid-prefix
 [npm-img]: https://img.shields.io/npm/v/postcss-gap-grid-prefix.svg
-[cli-url]: https://travis-ci.org/JLHwung/postcss-gap-grid-prefix
-[cli-img]: https://img.shields.io/travis/JLHwung/postcss-gap-grid-prefix.svg
+[cli-url]: https://travis-ci.com/JLHwung/postcss-gap-grid-prefix
+[cli-img]: https://travis-ci.com/JLHwung/postcss-gap-grid-prefix.svg?branch=master
 [win-url]: https://ci.appveyor.com/project/JLHwung/postcss-gap-grid-prefix
 [win-img]: https://img.shields.io/appveyor/ci/JLHwung/postcss-gap-grid-prefix.svg
 [gkp-url]: https://greenkeeper.io/
